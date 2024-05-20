@@ -1,0 +1,25 @@
+[debug] [2024-05-19T13:49:38.912Z] ----------------------------------------------------------------------
+[debug] [2024-05-19T13:49:38.915Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\parth\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-05-19T13:49:38.915Z] CLI Version:   13.9.0
+[debug] [2024-05-19T13:49:38.916Z] Platform:      win32
+[debug] [2024-05-19T13:49:38.916Z] Node Version:  v20.12.1
+[debug] [2024-05-19T13:49:38.916Z] Time:          Sun May 19 2024 19:19:38 GMT+0530 (India Standard Time)
+[debug] [2024-05-19T13:49:38.916Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-19T13:49:38.989Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-19T13:49:38.989Z] > authorizing via signed-in user (parthasarathi978@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\moviesGPT\movies-gpt
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
